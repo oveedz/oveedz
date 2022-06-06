@@ -1,5 +1,4 @@
-![iosbanner](https://user-images.githubusercontent.com/70641767/172203738-0a145002-4eb6-4efc-9869-3a31f393ec89.jpg)
-<h1 align="center">👋, I'm Ovi</h1>
+![Black Modern Minimalist Simple Technology Banner (2)](https://user-images.githubusercontent.com/70641767/172236257-1de34341-65b5-40f0-bb92-29297e157d09.gif)
 <h3 align="center">Mildly enthusiastic programmer hoping to create something people like.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oveedz&label=Profile%20views&color=0e75b6&style=flat" alt="oveedz" /> </p>
