@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/oveedz" target="blank"><img src="https://img.shields.io/twitter/follow/oveedz?logo=twitter&style=for-the-badge" alt="oveedz" /></a> </p>
 
-<img align="right" alt="Coding" width="300" height="220" src="https://user-images.githubusercontent.com/70641767/172222763-3f6f537d-49e6-4622-ab45-e7d8cf34a763.gif">
+<img align="right" alt="Coding" width="250" height="200" src="https://user-images.githubusercontent.com/70641767/172222763-3f6f537d-49e6-4622-ab45-e7d8cf34a763.gif">
 
 
 - 🔭 Wearing my entrepreneur hat and working on **Ryze Fitness**
